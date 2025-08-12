@@ -42,7 +42,7 @@
 | 09:00 – 10:30 | Security (JWT, Role-Based Authorization) และ Validation        |
 | 10:45 – 12:00 | API Documentation (Swagger/OpenAPI) + Unit/Integration Testing |
 | 13:00 – 14:30 | Deploy ด้วย Docker และ Azure DevOps (CI/CD)                    |
-| 14:45 – 16:30 | Final Project: พัฒนา API ตามโจทย์จริง + Present ผลงาน          |
+| 14:45 – 16:30 | Final Project: พัฒนา API CRUD POLICY       |
 
 #
 
