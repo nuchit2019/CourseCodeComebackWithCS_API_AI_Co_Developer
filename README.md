@@ -7,6 +7,7 @@
 #
 
 ## **ปัญหาของคนที่ทิ้งการเขียนโค้ดไปนาน**
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b010e6ea-5e50-4891-a0c5-50abdc8c15d7" />
 
 1. **เทคโนโลยีเปลี่ยนเร็วมาก** – จาก .NET Framework เดิม ไปสู่ .NET Core/.NET 8, Cloud Native, API-First, Containerization
 2. **ขาดความมั่นใจ** – รู้สึกตามไม่ทันเทรนด์ และไม่แน่ใจว่ายังเขียนโค้ดได้เหมือนเดิมหรือไม่
