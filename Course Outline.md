@@ -20,7 +20,7 @@
 
 #
 
-### **Day 2 – Clean Architecture & Best Practices**
+### **Day 2 – Clean Architecture, SOLID Principles & Best Practices**
 
 **เป้าหมาย:** สร้างระบบที่ยืดหยุ่น ดูแลง่าย และปรับปรุงโค้ดให้ได้มาตรฐาน
 
