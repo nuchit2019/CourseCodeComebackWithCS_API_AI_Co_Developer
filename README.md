@@ -7,7 +7,6 @@
 #
 
 ## **ปัญหาของคนที่ทิ้งการเขียนโค้ดไปนาน**
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b010e6ea-5e50-4891-a0c5-50abdc8c15d7" />
 
 1. **เทคโนโลยีเปลี่ยนเร็วมาก** – จาก .NET Framework เดิม ไปสู่ .NET Core/.NET 8, Cloud Native, API-First, Containerization
 2. **ขาดความมั่นใจ** – รู้สึกตามไม่ทันเทรนด์ และไม่แน่ใจว่ายังเขียนโค้ดได้เหมือนเดิมหรือไม่
@@ -18,7 +17,7 @@
 #
 
 ## **ทำไมต้องใช้ AI เป็นคู่หู**
-
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b010e6ea-5e50-4891-a0c5-50abdc8c15d7" />
 * **ลดเวลาเรียนรู้** – ไม่ต้องจำ Syntax ทั้งหมด แต่ให้ AI แนะนำโค้ดและอธิบายแนวคิดได้ทันที
 * **เป็น Reviewer ส่วนตัว** – AI ช่วยตรวจสอบโค้ดให้สอดคล้องกับ Best Practices เช่น SOLID, Clean Architecture
 * **ฝึกแก้ปัญหาแบบ Real-Time** – คุยกับ AI เพื่อขอคำแนะนำการแก้บั๊ก หรือปรับโค้ดให้เหมาะกับสถานการณ์
