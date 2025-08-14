@@ -17,7 +17,8 @@
 #
 
 ## **ทำไมต้องใช้ AI เป็นคู่หู**
-<img width="924" height="933" alt="image" src="https://github.com/user-attachments/assets/4de6947d-15fc-477e-a2e0-8227ae179f39" />
+<img width="639" height="664" alt="image" src="https://github.com/user-attachments/assets/592e4bc6-dc79-441c-84de-e2dd039265f2" />
+
 
 * **ลดเวลาเรียนรู้** – ไม่ต้องจำ Syntax ทั้งหมด แต่ให้ AI แนะนำโค้ดและอธิบายแนวคิดได้ทันที
 * **เป็น Reviewer ส่วนตัว** – AI ช่วยตรวจสอบโค้ดให้สอดคล้องกับ Best Practices เช่น SOLID, Clean Architecture
